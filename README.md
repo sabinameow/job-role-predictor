@@ -47,6 +47,8 @@ streamlit run app.py
 
 The app will open automatically at http://localhost:8501
 
+Deployed: https://job-role-predictor-bsisrz7z96tb5nwet2y2og.streamlit.app
+
 ## Dataset
 570 job listings from hh.ru covering 9 job roles after preprocessing:
 Business Analyst, Backend Developer, Frontend Developer, DevOps Engineer,
